@@ -11,8 +11,8 @@ Knowing the spending patterns of customers allows the company to allocate resour
 
 Please:
 
-1. Execute CreateDatabase.sql
+1. Execute `CreateDatabase.sql`
 
-2. Execute DataWarehouse.sql
+2. Execute `DataWarehouse.sql`
 
-3. Execute Queries.sql
+3. Execute `Queries.sql`
