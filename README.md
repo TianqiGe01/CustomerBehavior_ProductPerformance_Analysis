@@ -1,3 +1,5 @@
+## Objectives
+
 This project helps to:
 
 1. Identify Customer Segmentation Based on Spending Behavior:
@@ -8,6 +10,8 @@ The query focuses on identifying customers who have spent the most money on orde
 
 3. Resource Allocation and Inventory Planning:
 Knowing the spending patterns of customers allows the company to allocate resources efficiently. This includes optimizing customer support for high-value clients, managing inventory based on popular products among top spenders, and making informed decisions on where to allocate marketing budgets for the greatest impact. Efficient resource allocation is vital for maximizing returns.
+
+## Instruction
 
 Please:
 
