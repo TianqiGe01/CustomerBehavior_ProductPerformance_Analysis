@@ -7,8 +7,9 @@
 
     <img src="revenue_driving.jpeg" alt="Not available, please contact the author." width="300" height="150">
 
-5.  Allocate resource efficiently and managing inventory
+3.  Allocate resource efficiently and managing inventory
 
+    <img src="inventory.jpeg" alt="Not available, please contact the author." width="300" height="150">
 ## Instruction
 
 1. Create Data Warehouse: Execute `CreateDatabase.sql`,`DataWarehouse.sql`
