@@ -10,7 +10,7 @@ This project helps to
 
 ## Instruction
 
-1. To check SQL data warehouse result: Execute `CreateDatabase.sql`,`DataWarehouse.sql`,`Queries.sql`
+1. To check SQL data warehouse result: Execute `CreateDatabase.sql`,`DataWarehouse.sql`,`Queries.sql` in sequence
 
 2. To check Data Visualization through Tableau Public: https://public.tableau.com/app/profile/skyler.ge3169/viz/finalproject_17058938681500/Customeranalysis
- ![Alt text]("Customer_analysis.png")
+ ![Alt text](Customer_analysis.png)
