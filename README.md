@@ -1,10 +1,13 @@
 ## Objectives
-
 1.  Identify customer segmentation based on spending behavior
 
-2.  Identify revenue-driving products and seasonal analysis 
+    <img src="Post_Customer-Segmentation-Strategy-1.jpg" alt="Not available, please contact the author." width="200">
 
-3.  Allocate resource efficiently and managing inventory
+2.  Identify revenue-driving products and seasonal analysis
+
+
+
+5.  Allocate resource efficiently and managing inventory
 
 ## Instruction
 
