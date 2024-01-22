@@ -8,7 +8,7 @@
 
 ## Instruction
 
-1. SQL data warehouse result: Execute `CreateDatabase.sql`,`DataWarehouse.sql`
+1. Create Data Warehouse: Execute `CreateDatabase.sql`,`DataWarehouse.sql`
 <img src="EER_Diagram.png" alt="Not available, please contact the author." width="600">
 
 
@@ -35,7 +35,7 @@ JOIN suppliers s
 ON s.supplierID =Product_query.supplierID
 ```
 
-2. Customer consumption behavior insights: Execute `Queries.sql`
+2. Insights on Customer consumption behavior: Execute `Queries.sql`
 ```sql
 -- Customer 
 -- Which customers have spent the most money on orders?
