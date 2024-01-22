@@ -10,7 +10,10 @@ This project helps to
 
 ## Instruction
 
-1. To check SQL data warehouse result: Execute `CreateDatabase.sql`,`DataWarehouse.sql`,`Queries.sql` in sequence
+1. SQL data warehouse result: Execute `CreateDatabase.sql`,`DataWarehouse.sql`
+<img src="EER_Diagram.png" alt="Not available, please contact the author." width="650">
+
+
 ```sql
 use cis467_final_project;
 CREATE OR REPLACE VIEW Customerdw AS
@@ -34,5 +37,7 @@ JOIN suppliers s
 ON s.supplierID =Product_query.supplierID
 ```
 
-2. To check Data Visualization through Tableau Public: https://public.tableau.com/app/profile/skyler.ge3169/viz/finalproject_17058938681500/Customeranalysis
- ![Alt text](Customer_analysis.png)
+2.Customer consumption behavior insights: Execute `Queries.sql`
+
+3.To check Data Visualization through Tableau Public: https://public.tableau.com/app/profile/skyler.ge3169/viz/finalproject_17058938681500/Customeranalysis
+ ![Not available, please contact the author.](Customer_analysis.png)
