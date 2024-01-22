@@ -1,3 +1,5 @@
+# Customer Behavior Analysis on Sales Data
+
 ## Objectives
 1.  Identify customer segmentation based on spending behavior
 
@@ -106,7 +108,7 @@ GROUP BY month
 ORDER BY month;
 ```
 ---
-3. Data Visualization:
+3. Data Visualization using Tableau:
    https://public.tableau.com/app/profile/skyler.ge3169/viz/finalproject_17058938681500/Customeranalysis
 ---
  ![Not available, please contact the author.](Customer_analysis.png)
