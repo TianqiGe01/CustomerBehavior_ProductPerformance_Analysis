@@ -1,18 +1,12 @@
 # Customer Behavior Analysis on Sales Data
 
 ## Objectives
-1.  Identify customer segmentation based on spending behavior
+1.  💡 Identify customer segmentation based on spending behavior
 
-    <img src="images/Post_Customer-Segmentation-Strategy-1.jpg" alt="Not available, please contact the author." width="300" height="150">
+2.  📈 Identify revenue-driving products and seasonal analysis
 
+3.  🌎 Allocate resource efficiently and managing inventory
 
-2.  Identify revenue-driving products and seasonal analysis
-
-    <img src="images/revenue_driving.jpeg" alt="Not available, please contact the author." width="300" height="150">
-
-3.  Allocate resource efficiently and managing inventory
-
-    <img src="images/inventory.jpeg" alt="Not available, please contact the author." width="300" height="150">
 ## Instruction
 ---
 1. Create Data Warehouse: Execute `CreateDatabase.sql`,`DataWarehouse.sql`
