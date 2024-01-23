@@ -3,20 +3,21 @@
 ## Objectives
 1.  Identify customer segmentation based on spending behavior
 
-    <img src="Post_Customer-Segmentation-Strategy-1.jpg" alt="Not available, please contact the author." width="300" height="150">
+    <img src="images/Post_Customer-Segmentation-Strategy-1.jpg" alt="Not available, please contact the author." width="300" height="150">
+
 
 2.  Identify revenue-driving products and seasonal analysis
 
-    <img src="revenue_driving.jpeg" alt="Not available, please contact the author." width="300" height="150">
+    <img src="images/revenue_driving.jpeg" alt="Not available, please contact the author." width="300" height="150">
 
 3.  Allocate resource efficiently and managing inventory
 
-    <img src="inventory.jpeg" alt="Not available, please contact the author." width="300" height="150">
+    <img src="images/inventory.jpeg" alt="Not available, please contact the author." width="300" height="150">
 ## Instruction
 ---
 1. Create Data Warehouse: Execute `CreateDatabase.sql`,`DataWarehouse.sql`
 ---
-<img src="EER_Diagram.png" alt="Not available, please contact the author." width="600">
+<img src="images/EER_Diagram.png" alt="Not available, please contact the author." width="600">
 
 
 ```sql
@@ -111,4 +112,4 @@ ORDER BY month;
 3. Data Visualization using Tableau:
    https://public.tableau.com/app/profile/skyler.ge3169/viz/finalproject_17058938681500/Customeranalysis
 ---
- ![Not available, please contact the author.](Customer_analysis.png)
+ ![Not available, please contact the author.](images/Customer_analysis.png)
